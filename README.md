@@ -19,3 +19,6 @@ My homework
 
 
 [Урок 9](https://mihailovig.github.io/lessons_9/ "Верстка при помощи Bootstrap 5") - Верстка при помощи Bootstrap 5.
+
+
+[Урок 10](https://mihailovig.github.io/lessons_10/main.less/ "Препроцессор LESS для CSS") - Препроцессор LESS для CSS.
