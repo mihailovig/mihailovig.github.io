@@ -1,0 +1,34 @@
+h2, h3, h4{
+	text-align: center;
+}
+
+.chapter-1{
+	background-color: #3AE2CE;
+	border: 1px solid black;
+}
+
+.fatty{
+	font-weight: bold;
+}
+
+.chapter-2{
+	background-color: #1CBBE6;
+	border: 2px dotted black; 
+}
+
+.italiс{
+	font-style: italic;
+}
+
+.chapter-3{
+	background-color: #B483E6;
+	border: 2px dashed black; 
+}
+
+.crossed{
+	text-decoration: line-through;
+}
+
+.under{
+	text-decoration: underline;
+}
