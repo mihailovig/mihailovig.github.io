@@ -25,3 +25,6 @@ My homework
 
 
 [Урок 11](https://mihailovig.github.io/lessons_11/ "Сниппеты") - Сниппеты (файлы добавлены).
+
+
+[Урок 13(https://mihailovig.github.io/lessons_13/ "Адаптивная верстка") - Адаптивная верстка.
