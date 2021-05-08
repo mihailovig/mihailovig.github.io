@@ -1,0 +1,100 @@
+*{
+	box-sizing: border-box;
+}
+
+body{
+	font-family: Tahoma, sans-serif;
+	line-height: 1.5;
+	color: #333333;
+}
+
+.section{
+	padding: 30px 10%;
+}
+
+.header{
+	margin-top: 80px;
+	font-size: 24px;
+	text-align: center;
+}
+
+.header span{
+	font-weight: 300;
+	display: block;
+}
+
+.header strong{
+	text-transform: uppercase;
+}
+
+.main{
+	text-align: center;
+	margin-top: 80px;
+}
+
+.video, .form{
+	display: inline-block;
+	vertical-align: top;
+}
+
+.form{
+	text-align: center;
+	padding: 20px;
+	border: 5px solid #2727d9;
+	margin-left: 30px;
+}
+
+.font-header{
+	text-align: center;
+	font-size: 20px;
+	font-weight: 900;
+	margin-bottom: 25px;
+}
+
+.form input{
+	display: block;
+	margin-top: 15px;
+	width: 300px;
+	padding: 15px;
+	font-size: 18px;
+	border: 1px solid #333;
+}
+
+.btn{
+	width: 300px;
+	height: 60px;
+	background-color: #3c3cdd;
+	color: #fff;
+	font-size: 18px;
+	font-weight: 900;
+	border: none;
+	display: block;
+	margin: 15px auto;
+}
+
+.col{
+	display: inline-block;
+	margin: 10px 50px;	
+}
+
+.feature-header, .clients-header{
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 24px;
+	font-weight: 900;
+}
+
+.feature{
+	text-align: center;
+	margin: 60px auto;
+}
+
+.row{
+	text-align: center;
+	margin: 30px 0;
+}
+
+.col-1{
+	display: inline-block;
+	margin: 0 15px; 
+}
