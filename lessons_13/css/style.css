@@ -1,0 +1,64 @@
+.form{
+	font-family:  Arial, sans-serif;
+	font-size: 12px;
+}
+
+.form-content{
+	width: 320px;
+	height: 374px;
+	border: 3px solid #cfdede;
+	margin: 20px auto;
+	padding: 38px 30px 30px 28px;
+	position: relative
+}
+
+.btn-create{
+	position: absolute;
+	top: -5px;
+	left: 27px;
+	width: 149px;
+	height: 25px;
+	font-size: 12px;
+	font-weight: 700;
+	color: white;
+	text-transform: uppercase;
+	background-color: #01b3b3;
+	border: none;
+}
+
+.text-form{
+	font-weight: 700;
+	margin: 14px 0;
+}
+
+span{
+	color: #01b3b3;
+}
+
+.form-input{
+	width: 260px;
+	height: 30px;
+	border: 2px solid #ebf4f4;
+	padding-left: 11px;
+	background-color: #ebf4f4;
+}
+
+::-moz-placeholder {
+	font-size: 12px;
+	color: #777777;
+	font-weight: 900;
+	font-style: italic;
+}
+
+.btn-form{
+	width: 100%;
+	height: 45px;
+	font-size: 16px;
+	font-weight: 700;
+	color: white;
+	text-transform: uppercase;
+	background-color: #01b3b3;
+	border: none;
+	margin-top: 36px;
+	border-radius: 4px;
+}
