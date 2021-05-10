@@ -1,0 +1,71 @@
+@font-face {
+    font-family: 'OpenSansLight';
+    src: url('../fonts/OpenSansLight.eot');
+    src: url('../fonts/OpenSansLight.eot') format('embedded-opentype'),
+         url('../fonts/OpenSansLight.woff2') format('woff2'),
+         url('../fonts/OpenSansLight.woff') format('woff'),
+         url('../fonts/OpenSansLight.ttf') format('truetype'),
+         url('../fonts/OpenSansLight.svg#OpenSansLight') format('svg');
+}
+
+@font-face {
+    font-family: 'BebasNeueBold';
+    src: url('../../fonts/BebasNeueBold.eot');
+    src: url('../fonts/BebasNeueBold.eot') format('embedded-opentype'),
+         url('../fonts/BebasNeueBold.woff2') format('woff2'),
+         url('../fonts/BebasNeueBold.woff') format('woff'),
+         url('../fonts/BebasNeueBold.ttf') format('truetype'),
+         url('../fonts/BebasNeueBold.svg#BebasNeueBold') format('svg');
+}
+
+@font-face {
+    font-family: 'LatoLight';
+    src: url('../fonts/LatoLight.eot');
+    src: url('../fonts/LatoLight.eot') format('embedded-opentype'),
+         url('../fonts/LatoLight.woff2') format('woff2'),
+         url('../fonts/LatoLight.woff') format('woff'),
+         url('../fonts/LatoLight.ttf') format('truetype'),
+         url('../fonts/LatoLight.svg#LatoLight') format('svg');
+}
+
+@font-face {
+    font-family: 'LobsterRegular';
+    src: url('../fonts/LobsterRegular.eot');
+    src: url('../fonts/LobsterRegular.eot') format('embedded-opentype'),
+         url('../fonts/LobsterRegular.woff2') format('woff2'),
+         url('../fonts/LobsterRegular.woff') format('woff'),
+         url('../fonts/LobsterRegular.ttf') format('truetype'),
+         url('../fonts/LobsterRegular.svg#LobsterRegular') format('svg');
+}
+
+.result-font_1{
+	font-family: 'OpenSansLight', sans-serif;
+}
+
+.result-font_2{
+	font-family: 'BebasNeueBold';
+}
+
+.result-font_3{
+	font-family: 'LatoLight';
+}
+
+.result-font_4{
+	font-family: 'LobsterRegular';
+}
+
+.text-box{
+	padding-top: 2rem;
+}
+.result {
+	margin-bottom: 0;
+	margin-top: 3rem;
+}
+.fonts {
+	font-size: 2rem;
+	text-align: center;
+	padding: 2rem;
+}
+small {
+	font-size: 1.3rem;
+}
