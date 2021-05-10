@@ -28,3 +28,6 @@ My homework
 
 
 [Урок 13](https://mihailovig.github.io/lessons_13/ "Адаптивная верстка") - Адаптивная верстка.
+
+
+[Практика. Часть 1.](https://mihailovig.github.io/practic_ch_1/ "Верстка шапки сайта") - Верстка шапки сайта.
