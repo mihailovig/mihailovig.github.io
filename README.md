@@ -34,3 +34,6 @@ My homework
 
 
 [Урок 14](https://mihailovig.github.io/lessons_14/ "Подключение шрифтов") - Подключение шрифтов.
+
+
+[Практика. Часть 2.](https://mihailovig.github.io/practic_ch_12 "Верстка первого экрана") - Верстка первого экрана.
