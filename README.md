@@ -52,3 +52,6 @@ My homework
 
 
 [Урок 17](https://mihailovig.github.io/lessons_17/ "Всплывающие окна") - Всплывающие окна.
+
+
+[Практика. Часть 5.](https://mihailovig.github.io/practic_ch_5 "Верстка всплывающих окон на сайте") - Верстка всплывающих окон на сайте.
