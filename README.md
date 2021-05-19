@@ -55,3 +55,6 @@ My homework
 
 
 [Практика. Часть 5.](https://mihailovig.github.io/practic_ch_5/ "Верстка всплывающих окон на сайте") - Верстка всплывающих окон на сайте.
+
+
+[Урок 18 (Accordion)](https://mihailovig.github.io/lessons_18/Accordion/ "Аккордион") - Аккордион.
