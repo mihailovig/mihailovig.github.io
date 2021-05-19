@@ -58,3 +58,6 @@ My homework
 
 
 [Урок 18 (Accordion)](https://mihailovig.github.io/lessons_18/Accordion/ "Аккордион") - Аккордион.
+
+
+[Урок 18 (Tabs)](https://mihailovig.github.io/lessons_18/Tabs/ "Табы") - Табы.
