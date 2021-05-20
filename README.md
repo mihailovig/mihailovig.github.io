@@ -61,3 +61,6 @@ My homework
 
 
 [Урок 18 (Tabs)](https://mihailovig.github.io/lessons_18/Tabs/ "Табы") - Табы.
+
+
+[Практика. Часть 6.](https://mihailovig.github.io/practic_ch_6/ "Верстка блока с ценами") - Верстка блока с ценами.
