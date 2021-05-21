@@ -64,3 +64,6 @@ My homework
 
 
 [Практика. Часть 6.](https://mihailovig.github.io/practic_ch_6/ "Верстка блока с ценами") - Верстка блока с ценами.
+
+
+[Урок 19](https://mihailovig.github.io/lessons_19/ "Анимация на CSS3") - Анимация на CSS3.
