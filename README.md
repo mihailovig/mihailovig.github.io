@@ -67,3 +67,6 @@ My homework
 
 
 [Урок 19](https://mihailovig.github.io/lessons_19/ "Анимация на CSS3") - Анимация на CSS3.
+
+
+[Практика. Часть 7.](https://mihailovig.github.io/practic_ch_7/ "Верстка блока с отзывами") - Верстка блока с отзывами.
