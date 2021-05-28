@@ -79,3 +79,6 @@ My homework
 
 
 [Урок 21](https://mihailovig.github.io/lessons_21/ "Parallax эффект для сайта") - Parallax эффект для сайта.
+
+
+[Практика. Часть 9.](https://mihailovig.github.io/practic_ch_9/ "Верстаем схему работы и все включено") - Верстаем схему работы и все включено.
